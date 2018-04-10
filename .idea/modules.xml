@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/Alibaba.iml" filepath="$PROJECT_DIR$/Alibaba/Alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Baidu/Baidu.iml" filepath="$PROJECT_DIR$/Baidu/Baidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GALAXY/GALAXY.iml" filepath="$PROJECT_DIR$/GALAXY/GALAXY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuaWei/HuaWei.iml" filepath="$PROJECT_DIR$/HuaWei/HuaWei.iml" />
       <module fileurl="file://$PROJECT_DIR$/Idea-Push.iml" filepath="$PROJECT_DIR$/Idea-Push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jpush/Jpush.iml" filepath="$PROJECT_DIR$/Jpush/Jpush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lenovo/Lenovo.iml" filepath="$PROJECT_DIR$/Lenovo/Lenovo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Meizu/Meizu.iml" filepath="$PROJECT_DIR$/Meizu/Meizu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPPO/OPPO.iml" filepath="$PROJECT_DIR$/OPPO/OPPO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tecent/Tecent.iml" filepath="$PROJECT_DIR$/Tecent/Tecent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vivo/Vivo.iml" filepath="$PROJECT_DIR$/Vivo/Vivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XiaoMi/XiaoMi.iml" filepath="$PROJECT_DIR$/XiaoMi/XiaoMi.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
